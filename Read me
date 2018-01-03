@@ -1,0 +1,24 @@
+Program çalışma prensibi :-
+ 
+İlk açılışında Personel veya Müdür olduğunuza göre uygunu seçip, daha önce verilmiş kullanıcı adı şifresi ile  giriş yapabilirsiniz.
+Eğer müdür yolu seçerseniz görev ekle, var olan gerevi, yeni personel eklemek veya var olan personelin bilgileri düzeltip silmek için ana menü pencersine sizi yönlendirecektir. 
+Kapat botununa basarak Programı Kapatabilirsiniz.
+
+ 
+Ana menü ekranından yeni görev oluştur döğümeye  basıldığında yeni görev oluşturmak penceresine sizi yönlendirecektir.  
+O pencereden Gorevin Nosı, tipi, sureci,önceliği,konusu, notu, personeli, departmanı ve tarihi her tanesinin kendi alanında bilgisi girip kaydet botununa basarak yeni görev oluşturabilirsiniz.  Ana menü botununa basarak önceki pencerye dönebilirsiniz.Çıkış botununa basarak en baştaki ekrana dönebilirsiniz.
+  
+Eğer Görev sil / düelt / göster botununa basarak var olan görevler göseren bir pencere program sizi yönlendeirecektir. İstdiğiniz görevi seçip sil veya düzelt ekranından düzeltme yapabilirsiniz. Yenele butununa basarak var olan görevler güncellenmiş hali gösterecektir.
+
+  
+Düzeltme ekranından Güncelle botununa basarak gorev no sı hariç tüm bilgileri düzeltebilirsiniz . 
+  
+Ana menü ekranından Yeni Personel Oluştur botununa basarak personel oluşturmak pencersine açılacaktır. En az bir resim ve personel Id girmeden kaydet botununa basılmamalıdır. 
+
+ 
+Ana menü ekranından Personel sil / düzelt / göster botununa basarak var olan personellerin bilgileriyle listelenmiş hlinde görebilirsiniz. Belli bir personeli seçip sil veya düzeltme ekranından işlem yapabilirsiniz.
+ 
+Düzeltme ekranı gelince resim var olsa bile yeniden eklenmeli ve ıd hariç tüm bilgileri düzeltebilirsiniz.
+
+ 
+Eğer Giriş ekranından personel olarak girerseniz Personel kendi görevleri gösterecektir. Ve altta kaydırıcıdan Kaydet botununa basarak sedece seçtiğiniz görevin Tamamlamasını değiştirebilirsiniz. 
